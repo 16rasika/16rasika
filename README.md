@@ -18,7 +18,7 @@ I am enhancing my skillset to become a data scientist.
 Data science gives me the challenge, communication gives me the strength . 
 Give a data and I will play with it to give you insights and present it with dashboard.
 
-## You can find my projects in my **Data Science-Portfolio** and Virtual Intership on **Forage **repository
+## You can find my projects in my **Data Science-Portfolio** and Virtual Internship on **Forage**repository.
 
 ## Languages And Tools
 **Python    SQL    Tableau  Power-BI**
