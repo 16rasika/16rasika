@@ -4,8 +4,8 @@
 - 😄 Pronouns: She
   
 - 📫 How to reach me via Linkedin
-- 
-- 
+  
+  
 
 <!---
 16rasika/16rasika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
