@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rasika Kulkarni
-- 👀 I’m interested in Machine Learning,Data Science
-- 🌱 I’m currently learning Power-BI
+- 👀 I’m passionate about Data Science and Machine Learning. I like utilizing data science techniques for data-informed decision-making in Business process.
+- 🎓 I am Engineer in Electronics & Telecommunications and Data Science. I'm constantly learning and exploring new technologies.
+- 😄 Pronouns: She
   
 - 📫 How to reach me via Linkedin
 - 
@@ -16,9 +17,16 @@ You can click the Preview link to take a look at your changes.
 I am a technically skilled, goal-oriented, Elctronics Engineer, with strong communication skills stepping towards the fiels of Data Science. 
 I am enhancing my skillset to become a data scientist. 
 Data science gives me the challenge, communication gives me the strength . 
-Give a data and I will play with it to give you insights and present it with dashboard.
+
 
 ## You can find my projects in my **Data Science-Portfolio**,Forage repository and Iternship.
 
 ## Languages And Tools
+Here are some of the technologies and tools I experience working with:
+Programming Languages: Python, SQL,R
+Database: MySQL, PostgreSQL
+BI Tool : Tableau,Power-BI
+Tools: MS-Office, Jupyter Notebook, Github
+Frameworks: Streamlit
+
 **Python    SQL    Tableau  Power-BI**
