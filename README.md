@@ -19,7 +19,7 @@ I am enhancing my skillset to become a data scientist.
 Data science gives me the challenge, communication gives me the strength . 
 
 
-## You can find my projects in my **Data Science-Portfolio**,Forage repository and Iternship.
+## You can find my projects in my **Data Science-Portfolio**,Forage repository and Skillbuider.
 
 ## Languages And Tools
 Here are some of the technologies and tools I experience working with:
