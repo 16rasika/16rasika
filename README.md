@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rasika Kulkarni
 - 👀 I’m passionate about Data Science and Machine Learning. I like utilizing data science techniques for data-informed decision-making in Business process.
-- 🎓 I am Engineer in Electronics & Telecommunications and Data Science. I'm constantly learning and exploring new technologies.
+- 🎓 I am Engineer in Electronics & Telecommunications and studied Data Science. I'm constantly learning and exploring new technologies.
 - 😄 Pronouns: She
   
 - 📫 How to reach me via Linkedin
