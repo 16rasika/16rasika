@@ -24,14 +24,14 @@ Data science gives me the challenge, communication gives me the strength .
 ## Languages And Tools
 Here are some of the technologies and tools I experience working with:
 
-Programming Languages: Python, SQL,R
+## Programming Languages: Python, SQL,R
 
-Database: MySQL, PostgreSQL
+## Database: MySQL, PostgreSQL
 
-BI Tool : Tableau,Power-BI
+## BI Tool : Tableau,Power-BI
 
-Tools: MS-Office, Jupyter Notebook, Github
+## Tools: MS-Office, Jupyter Notebook, Github
 
-Frameworks: Streamlit
+## Frameworks: Streamlit
 
 **Python    SQL    Tableau  Power-BI**
