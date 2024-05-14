@@ -2,6 +2,8 @@
 - 👀 I’m passionate about Data Science and Machine Learning. I like utilizing data science techniques for data-informed decision-making in Business process.
   
 - 📫 How to reach me via Linkedin
+
+- ```yaml
 - Name: 👋 Rasika Kulkarni
 located_in: Nürnberg, Germany
 current_job: Job Seeker
@@ -30,7 +32,7 @@ technical_background:
 2024 Goals: ["Starting Job in a field of Data Science ","Learn New Technology(PyTorch) with hand on Training"]
 hobbies: [ "Cinema", "Art", "Comedy"]
   
-
+```
 <!---
 16rasika/16rasika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
