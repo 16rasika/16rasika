@@ -49,14 +49,11 @@ You can click the Preview link to take a look at your changes.
 
            
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-</p>
 
             <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
           
             <i class="devicon-tensorflow-original colored"></i>
 
-            
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
             <i class="devicon-anaconda-original colored"></i>
@@ -68,6 +65,8 @@ You can click the Preview link to take a look at your changes.
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
             <i class="devicon-numpy-plain-wordmark"></i>
+
+            </p>
           
           
 Here are some of the technologies and tools I experience working with:
