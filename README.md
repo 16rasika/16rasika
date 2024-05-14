@@ -1,7 +1,5 @@
 - 
 - 👀 I’m passionate about Data Science and Machine Learning. I like utilizing data science techniques for data-informed decision-making in Business process.
-- 
-- 
   
 - 📫 How to reach me via Linkedin
 - Name: 👋 Rasika Kulkarni
@@ -46,10 +44,11 @@ You can click the Preview link to take a look at your changes.
 ## You can find my projects in my **Data Science-Portfolio**,Forage repository and Skillbuider.
 
 ## Languages And Tools
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+</p>
 Here are some of the technologies and tools I experience working with:
 
 ## Programming Languages: Python, SQL,R
