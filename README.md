@@ -47,8 +47,29 @@ You can click the Preview link to take a look at your changes.
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
+           
             <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </p>
+
+            <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+          
+            <i class="devicon-tensorflow-original colored"></i>
+
+            
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <i class="devicon-anaconda-original colored"></i>
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <i class="devicon-mysql-plain-wordmark"></i>
+          
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+            <i class="devicon-numpy-plain-wordmark"></i>
+          
+          
 Here are some of the technologies and tools I experience working with:
 
 ## Programming Languages: Python, SQL,R
