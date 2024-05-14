@@ -1,13 +1,17 @@
-- 
+- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 - 👀 I’m passionate about Data Science and Machine Learning. I like utilizing data science techniques for data-informed decision-making in Business process.
   
 - 📫 How to reach me via Linkedin
 
 - ```yaml
-- Name: 👋 Rasika Kulkarni
+
+Name: 👋 Rasika Kulkarni
 located_in: Nürnberg, Germany
 current_job: Job Seeker
 😄 Pronouns: She
+
 education:
   [
     "Self Learning ",
@@ -21,6 +25,7 @@ fields_of_interests:
     "Machine Learning",
    "Deep Learning"
   ]
+  
 technical_background:
   [
     "Intern - Data Science & Machine Learning in Python",
@@ -28,6 +33,7 @@ technical_background:
     "Intern - Software Tester",
     "Intern - Embedded Engineer",
   ]
+  
   
 2024 Goals: ["Starting Job in a field of Data Science ","Learn New Technology(PyTorch) with hand on Training"]
 hobbies: [ "Cinema", "Art", "Comedy"]
@@ -39,42 +45,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Achievements 
+https://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url
 
-
+https://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile
 
 
 ## You can find my projects in my **Data Science-Portfolio**,Forage repository and Skillbuider.
 
 ## Languages And Tools
-<h2> 🚀 &nbsp;**Some Tools I Have Used and Learned**</h2>
-<p align="left">
-
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-            <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
           
-            <i class="devicon-tensorflow-original colored"></i>
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-            <i class="devicon-anaconda-original colored"></i>
-          
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-            <i class="devicon-mysql-plain-wordmark"></i>
-          
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-            <i class="devicon-numpy-plain-wordmark"></i>
-
-            </p>
-          
-          
-Here are some of the technologies and tools I experience working with:
-
 ## Programming Languages: Python, SQL,R
 
 ## Database: MySQL, PostgreSQL
@@ -85,4 +64,4 @@ Here are some of the technologies and tools I experience working with:
 
 ## Frameworks: Streamlit
 
-**Python    SQL    Tableau  Power-BI**
+##  Python    SQL    Tableau  Power-BI
