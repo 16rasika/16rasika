@@ -5,7 +5,9 @@
   
 - 📫 How to reach me via Linkedin
   
-  
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!---
 16rasika/16rasika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 I am a technically skilled, goal-oriented, Elctronics Engineer, with strong communication skills stepping towards the fiels of Data Science. 
 I am enhancing my skillset to become a data scientist. 
 Data science gives me the challenge, communication gives me the strength . 
+
+## Achievements 
+
+
 
 
 ## You can find my projects in my **Data Science-Portfolio**,Forage repository and Skillbuider.
