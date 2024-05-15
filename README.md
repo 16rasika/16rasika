@@ -1,6 +1,11 @@
+<p align="center"><img src="https://github.com/ADVAIT135/ADVAIT135/blob/eb64cdfd351503f3879eab07248f53878c6c50e3/giphy.gif" width="250" height="250"></p>
+<!--<p align="center"><img src="https://github.com/ADVAIT135/ADVAIT135/blob/eb64cdfd351503f3879eab07248f53878c6c50e3/giphy.gif" width="250" height="250"></p>
+<p align="center" style="font-size: 20px; color: darkred;">
 
+</p>
+</p>-->
 
-
+##########################################################################################################################################################
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h3 align="center">😄 Pronouns: She</h3>
