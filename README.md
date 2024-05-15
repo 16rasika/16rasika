@@ -23,9 +23,9 @@
 -
   
 ## Achievements 
-<p align="center"><img src=https:"http://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url"</a> </p>
+<img src=https:"http://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url"</a> </p>
 
-<!--<p align="center"><img src=https:"http://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile
+<img src=https:"http://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile
 
 </p>
 </p>-->
