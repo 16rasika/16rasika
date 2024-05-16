@@ -25,11 +25,20 @@
 ## Achievements 
 "http://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url"
 
-<img src=https:"http://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile
+"http://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile"
 
-</p>
-</p>-->
+"https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
+
+"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
+
+"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
 ## Job-Simulators
-<img src =http:"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"<a> </p>
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"
+
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3gp7DdzCmoWTNgxQn_1705073789638_completion_certificate.pdf"
+
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3gp7DdzCmoWTNgxQn_1706887170876_completion_certificate.pdf"
+
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
