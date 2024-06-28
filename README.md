@@ -44,4 +44,4 @@
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= 16rasika&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16rasika&theme=radical)
