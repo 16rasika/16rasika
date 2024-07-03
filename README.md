@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
+<h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
+<h1 align="Center">After completing bootcamp completed 15+ projects in multiple fields like SQL,ML,DL,Data analysis</h1>
+<h1 align="Center">Furthermore, In data visualization developed 6 dashboard in Power-BI and 3 in Tableau</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h3 align="center">😄 Pronouns: She</h3>
 
@@ -43,5 +46,36 @@
 
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16rasika&theme=radical)
+## ML & DL Models used in Hands-on-projects
+I've used different Machine Learning and Deep Learning models in hands-on-projects. Below are some used models:
+
+1.Linear Regression
+
+2.Logistic Regression
+
+3.Support Vector Machines (SVM)
+
+4.Decision Trees (DT)
+
+5.Random Forests (RF)
+
+6.K-Nearest Neighbors (KNN)
+
+7.Deep Neural Networks
+
+8.Convolutional Neural Networks (CNN)
+
+9.Recurrent Neural Networks (RNN)
+
+10.Naive Bayes (NB)
+
+11.Gradient Boosted Decision Trees (GBDT)
+
+12.XGBoost
+
+## Remote Interships
+
+1.Skill-Genie
+
+2.Oasis Infobyte
+ 
