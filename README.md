@@ -26,9 +26,10 @@
 
 # Badges
 
-![Alt text](images/example.png)
+![Alt text](Deep_Learning_Using_TensorFlow.png)
 
-![Alt text](https://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4)
+![Alt text](Machine_Learning_with_Python.png)
+
 
 ## Achievements 
 "http://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url"
