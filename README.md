@@ -25,6 +25,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=16rasika&show_icons=true&locale=en&layout=compact" alt="16rasika" /></p>
 
 # Badges
+
+![Alt text](images/example.png)
+
 ![Alt text](https://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4)
 
 ## Achievements 
