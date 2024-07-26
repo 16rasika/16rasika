@@ -29,18 +29,15 @@
 ![Alt text](new_Deep_Learning_Using_TensorFlow.png)  ![Alt text](Machine_Learning_with_Python.png)
 
 
-
-
 ## Achievements 
-"http://www.credly.com/badges/e83365d9-5c2f-4949-8dd8-fd7e963f655a/public_url"
 
-"http://www.credly.com/badges/32de3836-9f4e-43ad-a45e-0426348873e4/linked_in_profile"
+IBM Machine Learning with Python : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
 
-"https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
+Simplilearn Introduction to SQL : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
 
-"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
+Simplilearn Tableu Training :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
 
-"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
+Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
 ## Virtual Internship
 
