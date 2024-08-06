@@ -41,9 +41,10 @@ Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_171110
 
 # Internships
 <h3 align="left">Skill Genie Data Science Internship</h3>
-Completion Certificate : 
+<h4 align= left>Completion Certificate</h4> 
 
 <h3 align="left">Oasis InfoByte Data Science Internship</h3>
+<h4 align =left>'STAR PERFORMANCE APPRECIATION CERTIFICATE'</h4> 
 
 ## Virtual Internship
 
