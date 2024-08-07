@@ -26,7 +26,7 @@
 
 # Badges
 
-![Alt text](new_Deep_Learning_Using_TensorFlow.png)  ![Alt text](Machine_Learning_with_Python.png)
+![Alt text](new_Deep_Learning_Using_TensorFlow.png)  ![Alt text](Machine_Learning_with_Python.png) ![Alt text]([)
 
 
 ## Achievements 
