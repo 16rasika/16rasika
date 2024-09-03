@@ -47,10 +47,19 @@ Great Leraning: "https://olympus.mygreatlearning.com/courses/30824/certificate"
 Udemy : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
 
 # POWER-BI DASHBOARD
-1.accenture_dashboard
-2.PWC_dashboard
-3.Heart-diseases dashboard
-4 TATA_dashboard
+1.accenture_dashboard under Data-science skill builder repo in data visualization tab.
+
+2.PWC_dashboard under Data-science skill builder repo in data visualization tab.
+
+3.Heart-diseases dashboard under Heart-Diseases repo.
+
+4 TATA_dashboard under Data-science skill builder repo in data visualization tab.
+
+5.HR-analysis under Data-science skill builder repo in data visualization tab.
+
+6.Netflix dashboard under Data-science skill builder repo in data visualization tab.
+
+7.Super-store dashboard under Data-science skill builder repo in data visualization tab.
 
 # Internships
 
