@@ -30,22 +30,29 @@
 
 
 
-## Achievements 
+## Python Certification 
 
 IBM Machine Learning with Python : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
 
-Simplilearn Introduction to SQL : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
+## SQL Certifification
 
-Simplilearn Tableu Training :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
+Simplilearn Introduction to SQL : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
 
 Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
+# Data Visualization Certification
+
+Simplilearn Tableu Training :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
+
+
 # Internships
-<h3 align="left">Skill Genie Data Science Internship</h3>
-<h4 align= left>Completion Certificate</h4> 
 
 <h3 align="left">Oasis InfoByte Data Science Internship</h3>
 <h4 align =left>'STAR PERFORMANCE APPRECIATION CERTIFICATE'</h4> 
+
+<h3 align="left">Skill Genie Data Science Internship</h3>
+<h4 align= left>Completion Certificate</h4> 
+
 
 ## Virtual Internship
 
@@ -57,7 +64,7 @@ Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_171110
 
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
-## ML & DL Models used in Hands-on-projects
+## ML & DL Hands-on-projects
 I've used different Machine Learning and Deep Learning models in hands-on-projects. Below are some used models:
 
 1.Linear Regression
@@ -84,9 +91,6 @@ I've used different Machine Learning and Deep Learning models in hands-on-projec
 
 12.XGBoost
 
-## Remote Interships
 
-1.Skill-Genie
 
-2.Oasis Infobyte
  
