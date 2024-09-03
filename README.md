@@ -47,19 +47,26 @@ Great Leraning: "https://olympus.mygreatlearning.com/courses/30824/certificate"
 Udemy : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
 
 # POWER-BI DASHBOARD
-1.accenture_dashboard under Data-science skill builder repo in data visualization tab.
+1.accenture_dashboard in Data-Science-skill-builder repo under data visualization>Power-BI tab.
 
-2.PWC_dashboard under Data-science skill builder repo in data visualization tab.
+2.PWC_dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
 
 3.Heart-diseases dashboard under Heart-Diseases repo.
 
-4 TATA_dashboard under Data-science skill builder repo in data visualization tab.
+4 TATA_dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
 
-5.HR-analysis under Data-science skill builder repo in data visualization tab.
+5.HR-analysis in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
 
-6.Netflix dashboard under Data-science skill builder repo in data visualization tab.
+6.Netflix dashboard in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
 
-7.Super-store dashboard under Data-science skill builder repo in data visualization tab.
+7.Super-store dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+
+# TABLEAU DASHBOARD
+1.Amazon-prime in Data-Science-Skill-builder under data-visualization>Tableau tab.
+
+2.British Airways  in Data-Science-Skill-builder under data-visualization>Tableau tab.
+
+3.Heart-Disease  in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
 # Internships
 
