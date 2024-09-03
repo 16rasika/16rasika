@@ -28,8 +28,6 @@
 
 ![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png) 
 
-
-
 ## Python Certification 
 
 IBM Machine Learning with Python : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
@@ -48,6 +46,11 @@ Great Leraning: "https://olympus.mygreatlearning.com/courses/30824/certificate"
 
 Udemy : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
 
+# POWER-BI DASHBOARD
+1.accenture_dashboard
+2.PWC_dashboard
+3.Heart-diseases dashboard
+4 TATA_dashboard
 
 # Internships
 
