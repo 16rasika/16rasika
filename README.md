@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=16rasika&show_icons=true&locale=en&layout=compact" alt="16rasika" /></p>
 
-# Badges
+# IBM Badges
 
 ![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png) 
 
