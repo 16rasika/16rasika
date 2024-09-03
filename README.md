@@ -44,6 +44,10 @@ Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_171110
 
 Simplilearn Tableu Training :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
 
+Great Leraning: "https://olympus.mygreatlearning.com/courses/30824/certificate"
+
+Udemy : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
+
 
 # Internships
 
