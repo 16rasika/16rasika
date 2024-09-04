@@ -34,39 +34,41 @@ IBM Machine Learning with Python : "https://courses.cognitiveclass.ai/certificat
 
 ## SQL Certifification
 
-Simplilearn Introduction to SQL : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
+**Simplilearn Introduction to SQL** : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
 
-Simplilearn PostgreSQL :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
+**Simplilearn PostgreSQL** :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
 # Data Visualization Certification
 
-Simplilearn Tableu Training :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
+**Simplilearn Tableu Training** :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
 
-Great Leraning: "https://olympus.mygreatlearning.com/courses/30824/certificate"
+**Great Leraning Power-BI**: "https://olympus.mygreatlearning.com/courses/30824/certificate"
 
-Udemy : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
+**Udemy-Power-BI** : https://www.udemy.com/course/microsoft-power-bi-course-for-beginners-practical-course/learn/lecture/26892878#overview
+
+**Simplilearn Power-BI**:"https://certificates.simplicdn.net/share/7349618_1725487328.pdf"
 
 # POWER-BI DASHBOARD
-1.accenture_dashboard in Data-Science-skill-builder repo under data visualization>Power-BI tab.
+1.**Accenture_dashboard** in Data-Science-skill-builder repo under data visualization>Power-BI tab.
 
-2.PWC_dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+2.**PWC_dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
 
-3.Heart-diseases dashboard under Heart-Diseases repo.
+3.**Heart-diseases dashboard** under Heart-Diseases repo.
 
-4 TATA_dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+4 **TATA_dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
 
-5.HR-analysis in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
+5.**HR-analysis dashboard** in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
 
-6.Netflix dashboard in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
+6.**Netflix dashboard** in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
 
-7.Super-store dashboard in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+7.**Super-store dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
 
 # TABLEAU DASHBOARD
-1.Amazon-prime in Data-Science-Skill-builder under data-visualization>Tableau tab.
+1.**Amazon-prime dashboard** in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
-2.British Airways  in Data-Science-Skill-builder under data-visualization>Tableau tab.
+2.**British Airways dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
-3.Heart-Disease  in Data-Science-Skill-builder under data-visualization>Tableau tab.
+3.**Heart-Disease dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
 # Internships
 
