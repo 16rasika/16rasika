@@ -26,7 +26,7 @@
 
 # IBM Badges
 
-![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png) 
+![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  
 
 ## Python Certification 
 
