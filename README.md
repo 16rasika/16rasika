@@ -31,6 +31,7 @@
 ## Python Certification 
 
 IBM Machine Learning with Python : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
+IBM Python for Data Science : 'https://www.credly.com/badges/cf0bab1f-ec93-470e-9dd3-ed799669ecdf/public_url'
 
 ## SQL Certifification
 
