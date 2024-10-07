@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
-<h1 align="Center">After completing bootcamp completed 15+ projects in multiple fields like SQL,ML,DL,Data analysis</h1>
+<h1 align="Center">After completing bootcamp completed 15+ projects in multiple fields like SQL,ML,DL,Data analysis & 2 remote Internship & completed 4 Virtual job simulation from Forage </h1>
 <h1 align="Center">Furthermore, In data visualization developed 6 dashboard in Power-BI and 3 in Tableau</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h3 align="center">😄 Pronouns: She</h3>
