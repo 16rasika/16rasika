@@ -2,6 +2,30 @@
 
 ![Alt text](python-for-data-science.png) ![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
 
+## Virtual Internship
+![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
+
+## 1. BRITISH AIRWAYS ![British Airways](https://github.com/16rasika/Forage-Portfolio/assets/128808554/633253b7-63b5-4f5b-9a28-45db973b23dd)
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"
+
+## 2. ACCENTURE ![Accenture Logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/e7d44129-e4a1-437a-a938-51a6e1353129)
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3gp7DdzCmoWTNgxQn_1705073789638_completion_certificate.pdf"
+
+## 3. PWC
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3gp7DdzCmoWTNgxQn_1706887170876_completion_certificate.pdf"
+
+## 4.TATA ![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
+"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
+
+# Internships
+
+<h3 align="left">Oasis InfoByte Data Science Internship</h3>
+<h4 align =left>'STAR PERFORMANCE APPRECIATION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
+</h4> 
+
+<h3 align="left">Skill Genie Data Science Internship</h3>
+<h4 align= left>Completion Certificate https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
+
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
 <h1 align="Center">After completing bootcamp completed 15+ projects in multiple fields like SQL,ML,DL,Data analysis & 2 remote Internship & completed 4 Virtual job simulation from Forage </h1>
@@ -69,25 +93,6 @@ IBM Python for Data Science : 'https://www.credly.com/badges/cf0bab1f-ec93-470e-
 2.**British Airways dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
 3.**Heart-Disease dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
-
-# Internships
-
-<h3 align="left">Oasis InfoByte Data Science Internship</h3>
-<h4 align =left>'STAR PERFORMANCE APPRECIATION CERTIFICATE'</h4> 
-
-<h3 align="left">Skill Genie Data Science Internship</h3>
-<h4 align= left>Completion Certificate</h4> 
-
-
-## Virtual Internship
-
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"
-
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3gp7DdzCmoWTNgxQn_1705073789638_completion_certificate.pdf"
-
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3gp7DdzCmoWTNgxQn_1706887170876_completion_certificate.pdf"
-
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 ## ML & DL Hands-on-projects
 I've used different Machine Learning and Deep Learning models in hands-on-projects. Below are some used models:
