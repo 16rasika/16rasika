@@ -79,6 +79,11 @@
 
 **Simplilearn Power-BI**:"https://certificates.simplicdn.net/share/7349618_1725487328.pdf"
 
+## 4.GIT
+
+**Simplilearn GIT** :https://lms.simplilearn.com/courses/2823/GIT/certificate/download-skillup
+
+
 ## DATA VISUALIZATION PROJECTS
 
 # 1.Power-Bi dashboard
