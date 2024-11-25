@@ -20,7 +20,7 @@
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 # 3.INTERNSHIPS
-<h3 align =left> Oasis Infobyte Web-development Internship </h3>
+<h3 align =left"> Oasis Infobyte Web-development Internship </h3>
 <h4 align = left> 'APPRECIATION CETIFICATE' https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
 <h3 align="left">Oasis InfoByte Data Science Internship</h3>
 <h4 align =left>'APPRECIATION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
