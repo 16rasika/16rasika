@@ -79,6 +79,8 @@
 
 **Simplilearn Power-BI**:"https://certificates.simplicdn.net/share/7349618_1725487328.pdf"
 
+**Maven Analytics** : "https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi"
+
 ## 4.GIT
 
 **Simplilearn GIT** :https://lms.simplilearn.com/courses/2823/GIT/certificate/download-skillup
