@@ -89,6 +89,9 @@
 
 **Udemy** :https://www.udemy.com/share/101tKA3@IyG-L7PiR0bFDUNzSsKCoPw4_P-oBln7HvuGotAQozXnfdF3tx_1_aqzW_6bjxgQJw==/
 
+## 6 Machine learning 
+**IBM**:https://courses.cognitiveclass.ai/certificates/19e1d67a475c4bb6a1320e51c11c14d8#
+
 
 ## DATA VISUALIZATION PROJECTS
 
