@@ -92,6 +92,9 @@
 ## 6 Machine learning 
 **IBM**:https://courses.cognitiveclass.ai/certificates/19e1d67a475c4bb6a1320e51c11c14d8#
 
+## Hadoop
+**Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
+
 
 ## DATA VISUALIZATION PROJECTS
 
@@ -118,34 +121,7 @@
 
 **Heart-Disease dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
 
-## DATA SCIENCE PROJETCS
 
-## ML & DL Hands-on-projects
-I've used different Machine Learning and Deep Learning models in hands-on-projects. Below are some used models:
-
-1.Linear Regression
-
-2.Logistic Regression
-
-3.Support Vector Machines (SVM)
-
-4.Decision Trees (DT)
-
-5.Random Forests (RF)
-
-6.K-Nearest Neighbors (KNN)
-
-7.Deep Neural Networks
-
-8.Convolutional Neural Networks (CNN)
-
-9.Recurrent Neural Networks (RNN)
-
-10.Naive Bayes (NB)
-
-11.Gradient Boosted Decision Trees (GBDT)
-
-12.XGBoost
 
 
 
