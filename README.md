@@ -94,6 +94,7 @@
 
 ## Hadoop
 **Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
+**AWS**:file:///D:/Data_science/Certification/AWS/AWS_Hadoop_Fundamentals.pdf
 
 
 ## DATA VISUALIZATION PROJECTS
