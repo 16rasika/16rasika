@@ -20,20 +20,20 @@
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 # 3.INTERNSHIPS
-<h3 align =left"> Oasis Infobyte Web-development Internship </h3>
-<h4 align = left> 'APPRECIATION CETIFICATE' https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
-<h3 align="left">Oasis InfoByte Data Science Internship</h3>
+<h3 align =left">Oasis Infobyte Web-development Internship </h3>
+<h4 align = left>'APPRECIATION CETIFICATE' https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
+<h3 align="left">Oasis Infobyte Data Science Internship</h3>
 <h4 align =left>'APPRECIATION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
 </h4> 
 
-<h3 align="left">Skill Genie Data Science Internship</h3>
-<h4 align= left> 'COMPLETION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
+<h3 align="left">Skill-Genie Data Science Internship</h3>
+<h4 align= left>'COMPLETION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
 <h1 align="Center">After completing bootcamp to get hands-on experience I completed 15+ projects in different area  of Data science. 
-   In addition to that 2 remote Internship in Data science area & 1 Internship from Web-development area not only Internships I have also completed 4 Virtual job simulation from Forage </h1>
-<h1 align="Center">Furthermore, with data visualization tools I developed 6 dashboard in Power-BI and 3 in Tableau</h1>
+   In addition to that 2 remote Internship in Data science area & 1 Internship from Web-development area, not only Internships I have also completed 4 Virtual job simulation from Forage. </h1>
+<h1 align="Center">Furthermore, with data visualization tools I developed more than 6 dashboards in Power-BI and Tableau</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h3 align='center'>Like to work with Data visualization tools Like POWER-BI </h3>
 <h3 align="center">😄 Pronouns: She</h3>
