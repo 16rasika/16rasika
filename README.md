@@ -92,7 +92,7 @@
 ## 6.Machine learning 
 **IBM**:https://courses.cognitiveclass.ai/certificates/19e1d67a475c4bb6a1320e51c11c14d8#
 
-## 7.Hadoop
+## 7.Big-Data
 **Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
 **AWS**:AWS_Hadoop_Fundamentals.pdf
 
