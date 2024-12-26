@@ -55,7 +55,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=16rasika&show_icons=true&locale=en&layout=compact" alt="16rasika" /></p>
 
-## ACHIEVED CERTIFICATIONS
+## ACHIEVED CERTIFICATIONS & Hands-on-Projects
 
 ## 1.Python Certification 
 
@@ -63,13 +63,21 @@
 
 **IBM Python for Data Science** : 'https://www.credly.com/badges/cf0bab1f-ec93-470e-9dd3-ed799669ecdf/public_url'
 
-## 2.SQL Certifification
+## 2.SQL Certifification & Projects
+
+https://github.com/16rasika/SQL-Skillbuilder
 
 **Simplilearn Introduction to SQL** : "https://certificates.simplicdn.net/share/4974439_1711038948.pdf"
 
 **Simplilearn PostgreSQL** :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
-## 3.Data Visualization Certification
+## 3.Data Visualization Certification & Projects
+
+https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI
+
+https://github.com/16rasika/Cognify-Tech-Power-BI-internship
+
+https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Tableau
 
 **Simplilearn Tableu Training** :"https://certificates.simplicdn.net/share/4648475_1700063318.pdf"
 
@@ -90,48 +98,8 @@
 **Udemy** :https://www.udemy.com/share/101tKA3@IyG-L7PiR0bFDUNzSsKCoPw4_P-oBln7HvuGotAQozXnfdF3tx_1_aqzW_6bjxgQJw==/
 
 ## 6.Machine learning 
+
 **IBM**:https://courses.cognitiveclass.ai/certificates/19e1d67a475c4bb6a1320e51c11c14d8#
-
-## 7.Big-Data
-**Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
-
-**AWS**:AWS_Hadoop_Fundamentals
-
-**Udemy**:https://www.udemy.com/course/big-data-foundation-for-engineers-scientists-analysts/learn/lecture/45661449#overview (Data Engineering Foundation: Spark/Hadoop/Kafka/MongoDB)
-
-
-
-## DATA VISUALIZATION PROJECTS
-
-# 1.Power-Bi dashboard
-
-https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI
-
-https://github.com/16rasika/Cognify-Tech-Power-BI-internship
-
-**Accenture_dashboard** 
-
-**PWC_dashboard**
-
-**Heart-diseases dashboard** 
-
-**TATA_dashboard** .
-
-**HR-analysis dashboard** 
-
-**Netflix dashboard** 
-
-**Super-store dashboard** 
-# 2.Tableau Dashboard
-https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Tableau
-
-**Amazon-prime dashboard** 
-
-**British Airways dashboard**  
-
-**Heart-Disease dashboard**  
-
-## DATA SCIENCE PROJECTS
 
 https://github.com/16rasika/Data-Science-Skill-builder
 
@@ -145,9 +113,13 @@ https://github.com/16rasika/Heart_Diseases
 
 https://github.com/16rasika/DataScience-Portfolio
 
-## SQL PROJECTS
+## 7.Big-Data
+**Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
 
-https://github.com/16rasika/SQL-Skillbuilder
+**AWS**:AWS_Hadoop_Fundamentals
+
+**Udemy**:https://www.udemy.com/course/big-data-foundation-for-engineers-scientists-analysts/learn/lecture/45661449#overview (Data Engineering Foundation: Spark/Hadoop/Kafka/MongoDB)
+
 
 ## Pytorch PROJECTS
 
