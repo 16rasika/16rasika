@@ -94,7 +94,9 @@
 
 ## 7.Big-Data
 **Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
+
 **AWS**:AWS_Hadoop_Fundamentals
+
 **Udemy**:https://www.udemy.com/course/big-data-foundation-for-engineers-scientists-analysts/learn/lecture/45661449#overview (Data Engineering Foundation: Spark/Hadoop/Kafka/MongoDB)
 
 
@@ -104,28 +106,52 @@
 # 1.Power-Bi dashboard
 
 https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI
-**Accenture_dashboard** in Data-Science-skill-builder repo under data visualization>Power-BI tab.
 
-**PWC_dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+https://github.com/16rasika/Cognify-Tech-Power-BI-internship
 
-**Heart-diseases dashboard** under Heart-Diseases repo.
+**Accenture_dashboard** 
 
-**TATA_dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+**PWC_dashboard**
 
-**HR-analysis dashboard** in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
+**Heart-diseases dashboard** 
 
-**Netflix dashboard** in Data-Science-Skill-builder repo under data visualization >Power-BI tab.
+**TATA_dashboard** .
 
-**Super-store dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
+**HR-analysis dashboard** 
 
+**Netflix dashboard** 
+
+**Super-store dashboard** 
 # 2.Tableau Dashboard
+https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Tableau
 
-**Amazon-prime dashboard** in Data-Science-Skill-builder under data-visualization>Tableau tab.
+**Amazon-prime dashboard** 
 
-**British Airways dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
+**British Airways dashboard**  
 
-**Heart-Disease dashboard**  in Data-Science-Skill-builder under data-visualization>Tableau tab.
+**Heart-Disease dashboard**  
 
+## DATA SCIENCE PROJECTS
+
+https://github.com/16rasika/Data-Science-Skill-builder
+
+https://github.com/16rasika/Forage-Portfolio
+
+https://github.com/16rasika/OIBSIP-Data-Science-
+
+https://github.com/16rasika/Skill-Genie-Internship
+
+https://github.com/16rasika/Heart_Diseases
+
+https://github.com/16rasika/DataScience-Portfolio
+
+## SQL PROJECTS
+
+https://github.com/16rasika/SQL-Skillbuilder
+
+## Pytorch PROJECTS
+
+https://github.com/16rasika/Pytorch-skillbuilder
 
 
 
