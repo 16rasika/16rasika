@@ -94,12 +94,16 @@
 
 ## 7.Big-Data
 **Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
-**AWS**:AWS_Hadoop_Fundamentals.pdf
+**AWS**:AWS_Hadoop_Fundamentals
+**Udemy**:https://www.udemy.com/course/big-data-foundation-for-engineers-scientists-analysts/learn/lecture/45661449#overview (Data Engineering Foundation: Spark/Hadoop/Kafka/MongoDB)
+
 
 
 ## DATA VISUALIZATION PROJECTS
 
 # 1.Power-Bi dashboard
+
+https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI
 **Accenture_dashboard** in Data-Science-skill-builder repo under data visualization>Power-BI tab.
 
 **PWC_dashboard** in Data-Science-Skill-builder repo under data visualization>Power-BI tab.
