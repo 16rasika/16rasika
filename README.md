@@ -63,6 +63,8 @@
 
 **IBM Python for Data Science** : 'https://www.credly.com/badges/cf0bab1f-ec93-470e-9dd3-ed799669ecdf/public_url'
 
+**Udemy Python Flask** : https://www.udemy.com/course/python-flask-for-beginners/learn/lecture/8294590?start=240#overview
+
 ## 2.SQL Certifification & Projects
 
 https://github.com/16rasika/SQL-Skillbuilder
