@@ -20,13 +20,13 @@
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 # 3.INTERNSHIPS
-<h3 align =left">Oasis Infobyte Web-development Internship </h3>
+<h3 align ="center">Oasis Infobyte Web-development Internship </h3>
 <h4 align = left>'APPRECIATION CETIFICATE' https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
-<h3 align="left">Oasis Infobyte Data Science Internship</h3>
+<h3 align="center">Oasis Infobyte Data Science Internship</h3>
 <h4 align =left>'APPRECIATION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
 </h4> 
 
-<h3 align="left">Skill-Genie Data Science Internship</h3>
+<h3 align="center">Skill-Genie Data Science Internship</h3>
 <h4 align= left>'COMPLETION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
@@ -55,9 +55,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=16rasika&show_icons=true&locale=en&layout=compact" alt="16rasika" /></p>
 
-## ACHIEVED CERTIFICATIONS & Hands-on-Projects
+# 4.ACHIEVED CERTIFICATIONS & Hands-on-Projects
 
-## 1.Python Certification 
+   ## 1.Python Certification 
 
 **IBM Machine Learning with Python** : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
 
