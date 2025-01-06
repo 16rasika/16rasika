@@ -57,7 +57,10 @@
 
 # 4.ACHIEVED CERTIFICATIONS & Hands-on-Projects
 
-   ## 1.Python Certification 
+## 1.Opencv
+**OpenCV**:"https://courses.opencv.org/certificates/d603857526d141dcb181a232ec8060c6"
+
+## 2.Python Certification 
 
 **IBM Machine Learning with Python** : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
 
@@ -65,7 +68,7 @@
 
 **Udemy Python Flask** : https://www.udemy.com/course/python-flask-for-beginners/learn/lecture/8294590?start=240#overview
 
-## 2.SQL Certifification & Projects
+## 3.SQL Certifification & Projects
 
 https://github.com/16rasika/SQL-Skillbuilder
 
@@ -73,7 +76,7 @@ https://github.com/16rasika/SQL-Skillbuilder
 
 **Simplilearn PostgreSQL** :"https://certificates.simplicdn.net/share/4976353_1711103255.pdf"
 
-## 3.Data Visualization Certification & Projects
+## 4.Data Visualization Certification & Projects
 
 https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI
 
@@ -91,15 +94,15 @@ https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualiz
 
 **Maven Analytics** : "https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi"
 
-## 4.GIT
+## 5.GIT
 
 **Simplilearn GIT** :https://lms.simplilearn.com/courses/2823/GIT/certificate/download-skillup
 
-## 5.Cloud Computing
+## 6.Cloud Computing
 
 **Udemy** :https://www.udemy.com/share/101tKA3@IyG-L7PiR0bFDUNzSsKCoPw4_P-oBln7HvuGotAQozXnfdF3tx_1_aqzW_6bjxgQJw==/
 
-## 6.Machine learning 
+## 7.Machine learning 
 
 **IBM**:https://courses.cognitiveclass.ai/certificates/19e1d67a475c4bb6a1320e51c11c14d8#
 
@@ -115,7 +118,7 @@ https://github.com/16rasika/Heart_Diseases
 
 https://github.com/16rasika/DataScience-Portfolio
 
-## 7.Big-Data
+## 8.Big-Data
 **Udemy**:https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/learn/lecture/1243166#overview
 
 **AWS**:AWS_Hadoop_Fundamentals
