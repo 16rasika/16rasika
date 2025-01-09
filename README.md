@@ -21,7 +21,7 @@
 
 # 3.INTERNSHIPS
 <h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
-<h4 align = left>'COMPLETION CETIFICATE' </h4>
+<h4 align = left>'COMPLETION CETIFICATE' 'https://github.com/16rasika/16rasika/blob/main/Internship_Completion%20certificate.pdf'</h4>
 <h3 align ="center">Oasis Infobyte Web-development Internship </h3>
 <h4 align = left>'APPRECIATION CETIFICATE'https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
 <h3 align="center">Oasis Infobyte Data Science Internship</h3>
