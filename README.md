@@ -20,14 +20,16 @@
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 # 3.INTERNSHIPS
+<h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
+<h4 align = left>'COMPLETION CETIFICATE' </h4>
 <h3 align ="center">Oasis Infobyte Web-development Internship </h3>
-<h4 align = left>'APPRECIATION CETIFICATE' https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
+<h4 align = left>'APPRECIATION CETIFICATE'https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
 <h3 align="center">Oasis Infobyte Data Science Internship</h3>
-<h4 align =left>'APPRECIATION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
+<h4 align =left>'APPRECIATION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
 </h4> 
 
 <h3 align="center">Skill-Genie Data Science Internship</h3>
-<h4 align= left>'COMPLETION CERTIFICATE' https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
+<h4 align= left>'COMPLETION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
