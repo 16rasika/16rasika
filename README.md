@@ -1,5 +1,3 @@
-# MY ACHIEVEMENTS 
-
 # 1.IBM Badges
 
 ![Alt text](python-for-data-science.png) ![Alt text](new_data-analysis-using-python.png)![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
@@ -19,7 +17,7 @@
 ## TATA ![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
-# 3.INTERNSHIPS
+# 3.Internships
 <h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
 <h4 align = left>'COMPLETION CETIFICATE' 'https://github.com/16rasika/16rasika/blob/main/Internship_Completion%20certificate.pdf'</h4>
 <h3 align ="center">Oasis Infobyte Web-development Internship </h3>
@@ -34,7 +32,7 @@
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
 <h1 align="Center">After completing bootcamp to get hands-on experience I completed 15+ projects in different area  of Data science. 
-   In addition to that 2 remote Internship in Data science area & 1 Internship from Web-development area, not only Internships I have also completed 4 Virtual job simulation from Forage. </h1>
+   In addition to that, 2 remote Internship in Data science area,1 remote internship in Power-BI area & 1 Internship from Web-development area, not only Internships I have also completed 4 Virtual job simulation from Forage. </h1>
 <h1 align="Center">Furthermore, with data visualization tools I developed more than 6 dashboards in Power-BI and Tableau</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <h3 align='center'>Like to work with Data visualization tools Like POWER-BI </h3>
@@ -57,12 +55,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=16rasika&show_icons=true&locale=en&layout=compact" alt="16rasika" /></p>
 
-# 4.ACHIEVED CERTIFICATIONS & Hands-on-Projects
+# 4.Achieved certification & Hands-on-Projects
 
 ## 1.Opencv
 **OpenCV**:"https://courses.opencv.org/certificates/d603857526d141dcb181a232ec8060c6"
 
 ## 2.Python Certification 
+
+https://github.com/16rasika/Python-Programming
 
 **IBM Machine Learning with Python** : "https://courses.cognitiveclass.ai/certificates/9c9b44c598ff4549932d647485013e81"
 
@@ -127,10 +127,13 @@ https://github.com/16rasika/DataScience-Portfolio
 
 **Udemy**:https://www.udemy.com/course/big-data-foundation-for-engineers-scientists-analysts/learn/lecture/45661449#overview (Data Engineering Foundation: Spark/Hadoop/Kafka/MongoDB)
 
-
-## Pytorch PROJECTS
+## 9. Pytorch 
 
 https://github.com/16rasika/Pytorch-skillbuilder
+
+## 10.NLP
+
+https://github.com/16rasika/NLP-skillbuilder
 
 
 
