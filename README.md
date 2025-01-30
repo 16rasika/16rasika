@@ -5,7 +5,7 @@
 ## 2.Completed Job simualtion from Forage
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
-## CommonWealth Bank ![CommonWealth Bank](![Image](https://github.com/16rasika/Forage-Portfolio/user-attachments/assets/b8d1a1e4-5060-4d93-8918-c3e829bcc95e))
+## CommonWealth Bank ![Image](https://github.com/user-attachments/assets/9a72a4a0-5d90-46ea-ae4a-4cebcfbb8b94)
 "https://github.com/16rasika/Forage-Portfolio/blob/main/CommonWealth%20Bank/completion_certificate.pdf"
 
 ##  BRITISH AIRWAYS ![British Airways](https://github.com/16rasika/Forage-Portfolio/assets/128808554/633253b7-63b5-4f5b-9a28-45db973b23dd)
