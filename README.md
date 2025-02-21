@@ -99,7 +99,7 @@ https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualiz
 
 **Maven Analytics** : "https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi"
 
-**Dataciders gmbh** : 
+**Dataciders gmbh** : "https://github.com/16rasika/16rasika/blob/main/Rasika%20Kulkarni_Dashboard%20in%20a%20Day_46.pdf"
 
 **Datacamp Power-BI** : https://www.datacamp.com/statement-of-accomplishment/course/b66f036daf3d4432f7f348a8a6283a5c7d604e6b?raw=1
 
