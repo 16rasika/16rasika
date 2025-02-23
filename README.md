@@ -1,8 +1,8 @@
-# 1.IBM Badges
+### IBM Badges
 
 ![Alt text](python-for-data-science.png) ![Alt text](new_data-analysis-using-python.png)![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
 
-## 2.Completed Job simualtion from Forage
+### Completed Job simualtion from Forage
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
 ## CommonWealth Bank ![Image](https://github.com/user-attachments/assets/9a72a4a0-5d90-46ea-ae4a-4cebcfbb8b94)
@@ -20,7 +20,14 @@
 ## TATA ![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
-# 3.Internships
+### Datacamp Courses
+
+**Datacamp Power-BI** : 
+
+1.https://www.datacamp.com/statement-of-accomplishment/course/b66f036daf3d4432f7f348a8a6283a5c7d604e6b?raw=1
+2.https://www.datacamp.com/statement-of-accomplishment/course/da5786c54d81858f981cd64507f2e1df475b4ae9?raw=1
+
+### Internships
 <h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
 <h4 align = left>'COMPLETION CETIFICATE' 'https://github.com/16rasika/16rasika/blob/main/Internship_Completion%20certificate.pdf'</h4>
 <h3 align ="center">Oasis Infobyte Web-development Internship </h3>
@@ -100,8 +107,6 @@ https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualiz
 **Maven Analytics** : "https://mavenanalytics.io/crash-courses/go-from-data-to-dashboard-in-15-minutes-in-power-bi"
 
 **Dataciders gmbh** : "https://github.com/16rasika/16rasika/blob/main/Rasika%20Kulkarni_Dashboard%20in%20a%20Day_46.pdf"
-
-**Datacamp Power-BI** : https://www.datacamp.com/statement-of-accomplishment/course/b66f036daf3d4432f7f348a8a6283a5c7d604e6b?raw=1
 
 ## 5.GIT
 
