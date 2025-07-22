@@ -23,12 +23,6 @@
 ## TATA ![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
-### Datacamp Courses
-
-**Datacamp Power-BI** : 
-
-1.https://www.datacamp.com/statement-of-accomplishment/course/b66f036daf3d4432f7f348a8a6283a5c7d604e6b?raw=1
-2.https://www.datacamp.com/statement-of-accomplishment/course/da5786c54d81858f981cd64507f2e1df475b4ae9?raw=1
 
 ### Internships
 <h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
@@ -44,11 +38,11 @@
 
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
-<h1 align="Center">After completing bootcamp to get hands-on experience I completed 15+ projects in different area  of Data science. 
-   In addition to that, 2 remote Internship in Data science area,1 remote internship in Power-BI area & 1 Internship from Web-development area, not only Internships I have also completed 4 Virtual job simulation from Forage. </h1>
-<h1 align="Center">Furthermore, with data visualization tools I developed more than 6 dashboards in Power-BI and Tableau</h1>
+<h1 align="Center">In bootcamp I alredy to get hands-on experience but I continued doing prjects and hence I completed more than 15+ projects in different area  of Data science. 
+   Specially, i enjoyed working with BI tools.</h1>
+<h1 align="Center">Furthermore, I developed my interest in BI tools like Power-BI after doing different dashboards to get hands-on experience.So I strongly believe that Learning by doing is the only key to get sucess. </h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<h3 align='center'>Like to work with Data visualization tools Like POWER-BI </h3>
+<h3 align='center'>Like to work with Data visualization tools Like POWER-BI & NLP </h3>
 <h3 align="center">😄 Pronouns: She</h3>
 
 - <h3 align="center">🤝 fields_of_interests: Data Science,
