@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
+<h1 align="Center">Thank you for taking time to visit my Github.I have strong expereince in data science. </h1>
+
 ### IBM Badges
 
 ![Alt text](python-for-data-science.png) ![Alt text](new_data-analysis-using-python.png)![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
@@ -28,28 +31,27 @@
 
 
 ### Internships
-<h3 align ="center">Cognifyz Technologies Power-Bi Internship </h3>
+<h3 align ="Left">Cognifyz Technologies Power-Bi Internship </h3>
 <h4 align = left>'COMPLETION CETIFICATE' 'https://github.com/16rasika/16rasika/blob/main/Internship_Completion%20certificate.pdf'</h4>
-<h3 align ="center">Oasis Infobyte Web-development Internship </h3>
+<h3 align ="Left">Oasis Infobyte Web-development Internship </h3>
 <h4 align = left>'APPRECIATION CETIFICATE'https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
-<h3 align="center">Oasis Infobyte Data Science Internship</h3>
+<h3 align="left">Oasis Infobyte Data Science Internship</h3>
 <h4 align =left>'APPRECIATION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
 </h4> 
 
-<h3 align="center">Skill-Genie Data Science Internship</h3>
+<h3 align="Left">Skill-Genie Data Science Internship</h3>
 <h4 align= left>'COMPLETION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
 
-<h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
+
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
-<h1 align="Center">In bootcamp I alredy to get hands-on experience but I continued doing prjects and hence I completed more than 15+ projects in different area  of Data science. 
-   Specially, i enjoyed working with BI tools.</h1>
+<h1 align="Center">In bootcamp I alredy gathered valuable experience as Junior Data Scientist. I continued my study through different projects and hence I completed more than 15+ projects in different area  of Data science. Specially, i enjoyed working with BI tools.</h1>
 <h1 align="Center">Furthermore, I developed my interest in BI tools like Power-BI after doing different dashboards to get hands-on experience.So I strongly believe that Learning by doing is the only key to get sucess. </h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<h3 align='center'>Like to work with Data visualization tools Like POWER-BI & NLP </h3>
+<h3 align="center">🤝 fields_of_interests: Data Science,
+    Machine Learning, Deep Learning,Power-BI,NLP </h3>
 <h3 align="center">😄 Pronouns: She</h3>
 
-- <h3 align="center">🤝 fields_of_interests: Data Science,
-    Machine Learning, Deep Learning,Power-BI</h3>
+-
 
 - 👨‍💻 All of my projects are available at [github.com/16rasika](github.com/16rasika)
 
