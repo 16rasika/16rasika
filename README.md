@@ -8,19 +8,22 @@
 ### Completed Job simualtion from Forage
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
-## CommonWealth Bank ![Image](https://github.com/user-attachments/assets/9a72a4a0-5d90-46ea-ae4a-4cebcfbb8b94)
+## Deloitte 
+"https://github.com/16rasika/Forage-Portfolio/blob/main/Deloitte-Data%20Analytics/completion_certificate.pdf"
+
+## CommonWealth Bank 
 "https://github.com/16rasika/Forage-Portfolio/blob/main/CommonWealth%20Bank/completion_certificate.pdf"
 
-##  BRITISH AIRWAYS ![British Airways](https://github.com/16rasika/Forage-Portfolio/assets/128808554/633253b7-63b5-4f5b-9a28-45db973b23dd)
+##  British Airways
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"
 
-## ACCENTURE ![Accenture Logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/e7d44129-e4a1-437a-a938-51a6e1353129)
+## Accenture
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3gp7DdzCmoWTNgxQn_1705073789638_completion_certificate.pdf"
 
-## PWC
+## Pwc
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3gp7DdzCmoWTNgxQn_1706887170876_completion_certificate.pdf"
 
-## TATA ![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
+## Tata 
 "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
 
 
