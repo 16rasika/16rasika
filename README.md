@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
 <h1 align="Center">Thank you for taking time to visit my Github.I have strong expereince in data science. </h1>
 
-### IBM Badges
-
-![Alt text](python-for-data-science.png) ![Alt text](new_data-analysis-using-python.png)![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
-
 ## Data-camp Completed Tracks
 ![Alt text](Data-Literacy.JPG)
+
 ![Alt text](Power-BI-Track.JPG) ![Alt text](SQL-Fundamentals.JPG)
 ![Alt text](associate-data-engineer.JPG)  ![Alt text](Snow-flake.JPG) 
 ![Alt text](Azure_fundamentals.JPG)![Alt text](certi.JPG)
+
+### IBM Badges
+
+![Alt text](python-for-data-science.png) ![Alt text](new_data-analysis-using-python.png)![Alt text](data_science_methodologies.png)   ![Alt text](new_Machine_Learning_with_Python.png)  ![Alt text](new_Deep_Learning_Using_TensorFlow-1.png)  ![Alt text](data-visualization-using-python.png)
 
 ### Completed Job simualtion from Forage
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
