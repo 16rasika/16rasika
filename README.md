@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
-<h1 align="Center">Thank you for taking time to visit my Github.I have strong expereince in data science. </h1>
+<h1 align="Center">Thank you for taking time to visit my Github.I strongly believe "Skills speaks more than words" So To Showcase my skills in Power-BI I designed this Resume dashboard. </h1>
 
+![Alt text](resume_report_new.JPG)
 ## Data-camp Completed Tracks
 ![Alt text](Data-Literacy.JPG)
 
