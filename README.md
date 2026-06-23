@@ -3,7 +3,6 @@
 
 # Data-camp Certified Tracks 
 ![Alt text](Data-Literacy.JPG)
-![Alt text](DE Associate - badge.JPG)
 
 
 ## Data-camp Completed Tracks
