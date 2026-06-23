@@ -2,9 +2,11 @@
 <h1 align="Center">Thank you for taking time to visit my Github.I strongly believe "Skills speaks more than words" So To Showcase my skills in Power-BI I designed this Resume dashboard. </h1>
 
 ![Alt text](resume_report_new.JPG)
-## Data-camp Completed Tracks
+# Data-camp Certified Tracks 
 ![Alt text](Data-Literacy.JPG)
-
+![Alt text](DE Associate - badge.jpg)
+![Alt text](DE Associate - badge.png)
+## Data-camp Completed Tracks
 ![Alt text](Power-BI-Track.JPG) ![Alt text](SQL-Fundamentals.JPG)
 ![Alt text](associate-data-engineer.JPG)  ![Alt text](Snow-flake.JPG) 
 ![Alt text](Azure_fundamentals.JPG)![Alt text](certi.JPG)
