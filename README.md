@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rasika Kulkarni</h1>
-<h1 align="Center">Thank you for taking time to visit my Github.I strongly believe "Skills speaks more than words" So To Showcase my skills in Power-BI I designed this Resume dashboard. </h1>
+<h1 align="Center">Thank you for taking time to visit my Github. </h1>
 
-![Alt text](resume_report_new.JPG)
 # Data-camp Certified Tracks 
 ![Alt text](Data-Literacy.JPG)
-![Alt text](DE Associate - badge.jpg)
-![Alt text](DE Associate - badge.png)
+![Alt text](DE Associate - badge.JPG)
+
+
 ## Data-camp Completed Tracks
-![Alt text](Power-BI-Track.JPG) ![Alt text](SQL-Fundamentals.JPG)
-![Alt text](associate-data-engineer.JPG)  ![Alt text](Snow-flake.JPG) 
-![Alt text](Azure_fundamentals.JPG)![Alt text](certi.JPG)
+![Alt text](Power-BI-Track.JPG) 
+![Alt text](SQL-Fundamentals.JPG)
+![Alt text](associate-data-engineer.JPG) 
+![Alt text](Snow-flake.JPG) 
+![Alt text](certi.JPG)
+![Alt text](Azure_fundamentals.JPG)
+
 
 ### IBM Badges
 
@@ -18,37 +22,11 @@
 ### Completed Job simualtion from Forage
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
-## Deloitte 
-"https://github.com/16rasika/Forage-Portfolio/blob/main/Deloitte-Data%20Analytics/completion_certificate.pdf"
-
-## CommonWealth Bank 
-"https://github.com/16rasika/Forage-Portfolio/blob/main/CommonWealth%20Bank/completion_certificate.pdf"
-
-##  British Airways
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_3gp7DdzCmoWTNgxQn_1709483967278_completion_certificate.pdf"
-
-## Accenture
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_3gp7DdzCmoWTNgxQn_1705073789638_completion_certificate.pdf"
-
-## Pwc
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_3gp7DdzCmoWTNgxQn_1706887170876_completion_certificate.pdf"
-
-## Tata 
-"https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_3gp7DdzCmoWTNgxQn_1706608438497_completion_certificate.pdf"
-
-
 ### Internships
-<h3 align ="Left">Cognifyz Technologies Power-Bi Internship </h3>
-<h4 align = left>'COMPLETION CETIFICATE' 'https://github.com/16rasika/16rasika/blob/main/Internship_Completion%20certificate.pdf'</h4>
-<h3 align ="Left">Oasis Infobyte Web-development Internship </h3>
-<h4 align = left>'APPRECIATION CETIFICATE'https://github.com/user-attachments/files/17900623/Rasika.Kulkarni.Appreciattion-Certificate.pdf</h4>
-<h3 align="left">Oasis Infobyte Data Science Internship</h3>
-<h4 align =left>'APPRECIATION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Rasika%20%20Kulkarni%20Appreciation%20Certificate%20Oasis-Infobyte.pdf
-</h4> 
-
-<h3 align="Left">Skill-Genie Data Science Internship</h3>
-<h4 align= left>'COMPLETION CERTIFICATE'https://github.com/16rasika/16rasika/blob/main/Completion-Rasika%20Kulkarni%20Certificate.pdf</h4> 
-
+<h3 align ="Left"> Power-Bi Internship </h3>
+<h3 align ="Left"> Web-development Internship </h3>
+<h3 align="left"> Data Science Internship</h3>
+<h3 align="Left"> Data Science Internship</h3>
 
 <h1 align="Center">I hold a Bachelors Degree in Electronics From India and completed Bootcamp from WBS-Berlin</h1>
 <h1 align="Center">In bootcamp I alredy gathered valuable experience as Junior Data Scientist. I continued my study through different projects and hence I completed more than 15+ projects in different area  of Data science. Specially, i enjoyed working with BI tools.</h1>
