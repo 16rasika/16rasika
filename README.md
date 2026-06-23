@@ -3,7 +3,7 @@
 
 # Data-camp Certified Tracks 
 ![Alt text](Data-Literacy.JPG)
-
+![Alt text](DE Associate - badge with outline.jpg)
 
 ## Data-camp Completed Tracks
 ![Alt text](Power-BI-Track.JPG) 
