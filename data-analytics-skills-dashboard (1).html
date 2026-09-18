@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rasika — Data Analytics Skills Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0A1120;
+    --panel:#111B2E;
+    --panel-2:#0D1626;
+    --border:#1F2C46;
+    --text:#EAF0FA;
+    --muted:#8592AE;
+    --gold:#F2B705;
+    --teal:#33D6C0;
+    --coral:#FF6B5B;
+    --violet:#9A8CFF;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(1200px 600px at 10% -10%, rgba(51,214,192,0.08), transparent 60%),
+      radial-gradient(1000px 500px at 100% 0%, rgba(242,183,5,0.07), transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    padding:32px 40px 60px;
+  }
+  h1,h2,h3{font-family:'Space Grotesk',sans-serif; margin:0;}
+  .mono{font-family:'JetBrains Mono',monospace;}
+
+  /* Header */
+  .header{display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:26px; flex-wrap:wrap; gap:12px;}
+  .eyebrow{color:var(--teal); font-size:12px; letter-spacing:.14em; text-transform:uppercase; font-weight:600; margin-bottom:6px;}
+  .header h1{font-size:28px; font-weight:700;}
+  .header p{color:var(--muted); margin:6px 0 0; font-size:14px; max-width:560px;}
+  .links{display:flex; gap:10px; flex-wrap:wrap;}
+  .links a{color:var(--text); text-decoration:none; font-size:12px; border:1px solid var(--border); padding:7px 12px; border-radius:20px; background:var(--panel); transition:.2s;}
+  .links a:hover{border-color:var(--teal); color:var(--teal);}
+
+  /* Certification shelf - the signature element */
+  .cert-shelf{
+    position:relative;
+    background:linear-gradient(180deg, rgba(242,183,5,0.10), rgba(242,183,5,0.02));
+    border:1px solid rgba(242,183,5,0.35);
+    border-radius:16px;
+    padding:20px 22px 24px;
+    margin-bottom:28px;
+    overflow-x:auto;
+  }
+  .cert-shelf-label{display:flex; align-items:center; gap:8px; margin-bottom:16px;}
+  .cert-shelf-label .dot{width:8px; height:8px; border-radius:50%; background:var(--gold); box-shadow:0 0 10px var(--gold);}
+  .cert-shelf-label span{font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--gold); font-weight:700;}
+  .cert-row{display:flex; gap:14px; min-width:max-content;}
+  .cert-card{
+    width:200px; flex:0 0 auto;
+    background:var(--panel-2);
+    border:1px solid var(--border);
+    border-top:3px solid var(--gold);
+    border-radius:10px;
+    padding:14px 16px;
+    transition:transform .18s ease, border-color .18s ease;
+  }
+  .cert-card:hover{transform:translateY(-4px); border-color:var(--gold);}
+  .cert-card .badge{
+    display:inline-block; font-size:10px; font-weight:700; letter-spacing:.06em;
+    background:rgba(242,183,5,0.16); color:var(--gold); padding:3px 8px; border-radius:5px; margin-bottom:10px;
+  }
+  .cert-shelf.certified{
+    background:linear-gradient(180deg, rgba(51,214,192,0.10), rgba(51,214,192,0.02));
+    border:1px solid rgba(51,214,192,0.35);
+  }
+  .cert-shelf.certified .dot{background:var(--teal); box-shadow:0 0 10px var(--teal);}
+  .cert-shelf.certified .cert-shelf-label span{color:var(--teal);}
+  .cert-shelf.certified .cert-card{border-top:3px solid var(--teal);}
+  .cert-shelf.certified .cert-card:hover{border-color:var(--teal);}
+  .cert-shelf.certified .cert-card .badge{background:rgba(51,214,192,0.16); color:var(--teal);}
+  .cert-card h4{font-size:13.5px; font-weight:600; line-height:1.35; margin:0 0 10px;}
+  .cert-card .date{color:var(--muted); font-size:11.5px;}
+
+  /* KPI row */
+  .kpi-row{display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:26px;}
+  .kpi{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:18px 20px;}
+  .kpi .num{font-size:30px; font-weight:700; font-family:'JetBrains Mono',monospace;}
+  .kpi .lbl{color:var(--muted); font-size:12.5px; margin-top:4px;}
+  .kpi.teal .num{color:var(--teal);}
+  .kpi.gold .num{color:var(--gold);}
+  .kpi.coral .num{color:var(--coral);}
+  .kpi.violet .num{color:var(--violet);}
+
+  /* Grid */
+  .grid{display:grid; grid-template-columns:1.3fr 1fr; gap:18px; margin-bottom:18px;}
+  .panel{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:20px 22px;}
+  .panel h3{font-size:14.5px; font-weight:600;}
+  .panel .sub{color:var(--muted); font-size:12px; margin-top:3px; margin-bottom:14px;}
+  .panel-header{margin-bottom:6px;}
+  .chart-wrap{position:relative;}
+
+  .full{grid-column:1 / -1;}
+
+  /* Language KPI showcase */
+  .lang-kpis{display:flex; gap:16px; height:260px; align-items:stretch;}
+  .lang-kpi{
+    flex:1; border-radius:12px; padding:20px 18px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px;
+    border:1px solid var(--border); background:var(--panel-2); text-align:center;
+  }
+  .lang-kpi.en{border-top:3px solid var(--teal);}
+  .lang-kpi.de{border-top:3px solid var(--gold);}
+  .lang-flag{font-size:30px; margin-bottom:2px;}
+  .lang-name{font-family:'Space Grotesk',sans-serif; font-size:16px; font-weight:600;}
+  .lang-num{font-size:34px; font-weight:700;}
+  .lang-num span{font-size:14px; color:var(--muted); margin-left:4px; font-family:'Inter',sans-serif;}
+  .lang-level{font-size:12px; color:var(--muted); margin-bottom:6px;}
+  .lang-bar{width:80%; height:6px; border-radius:4px; background:var(--border); overflow:hidden;}
+  .lang-kpi.en .lang-bar-fill{height:100%; background:var(--teal); border-radius:4px;}
+  .lang-kpi.de .lang-bar-fill{height:100%; background:var(--gold); border-radius:4px;}
+
+  /* Project chips */
+  .chip-groups{display:flex; flex-direction:column; gap:14px;}
+  .chip-group-title{font-size:11.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--muted); margin-bottom:8px; display:flex; align-items:center; gap:8px;}
+  .chip-group-title .n{color:var(--text); font-family:'JetBrains Mono',monospace;}
+  .chips{display:flex; flex-wrap:wrap; gap:8px;}
+  .chip{font-size:12px; padding:6px 12px; border-radius:20px; border:1px solid var(--border); background:var(--panel-2); color:var(--text);}
+  .chip.handson{border-color:rgba(51,214,192,0.4); color:var(--teal);}
+  .chip.case{border-color:rgba(154,140,255,0.4); color:var(--violet);}
+  .chip.sim{border-color:rgba(255,107,91,0.4); color:var(--coral);}
+
+  footer{text-align:center; color:var(--muted); font-size:11.5px; margin-top:30px;}
+
+  @media (max-width:900px){
+    .grid{grid-template-columns:1fr;}
+    .kpi-row{grid-template-columns:repeat(2,1fr);}
+    body{padding:22px 16px 40px;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <div>
+      <div class="eyebrow">Portfolio Dashboard</div>
+      <h1>Data Analytics &amp; Power BI Skill Set</h1>
+      <p>Tools, hands-on projects, corporate job simulations and certifications built up across internships, coursework and self-directed practice.</p>
+    </div>
+    <div class="links">
+      <a href="https://github.com/16rasika" target="_blank">GitHub ↗</a>
+      <a href="https://www.linkedin.com/in/16rasika/" target="_blank">LinkedIn ↗</a>
+      <a href="https://github.com/16rasika/Data-Science-Skill-builder/tree/main/Data%20Visualization/Power-BI" target="_blank">Power BI Portfolio ↗</a>
+    </div>
+  </div>
+
+  <!-- Certification shelves -->
+  <div class="cert-shelf certified">
+    <div class="cert-shelf-label"><div class="dot"></div><span>DataCamp — Certified</span></div>
+    <div class="cert-row" id="certifiedRow"></div>
+  </div>
+  <div class="cert-shelf">
+    <div class="cert-shelf-label"><div class="dot"></div><span>DataCamp — Certification</span></div>
+    <div class="cert-row" id="certRow"></div>
+  </div>
+
+  <!-- KPIs -->
+  <div class="kpi-row">
+    <div class="kpi teal"><div class="num">9</div><div class="lbl">Total certifications (5 via DataCamp)</div></div>
+    <div class="kpi gold"><div class="num">12</div><div class="lbl">Power BI projects &amp; case studies</div></div>
+    <div class="kpi coral"><div class="num">6</div><div class="lbl">Corporate job simulations</div></div>
+    <div class="kpi violet"><div class="num">39</div><div class="lbl">Months of tool-specific experience</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <div class="panel-header"><h3>Experience by Tool &amp; Skill</h3><div class="sub">Months of practice, coloured by proficiency level</div></div>
+      <div class="chart-wrap" style="height:340px;"><canvas id="expChart"></canvas></div>
+    </div>
+    <div class="panel">
+      <div class="panel-header"><h3>Languages I Work In</h3><div class="sub">Bilingual, by months of project/work experience</div></div>
+      <div class="lang-kpis">
+        <div class="lang-kpi en">
+          <div class="lang-flag">🇬🇧</div>
+          <div class="lang-name">English</div>
+          <div class="lang-num mono">48<span>mo</span></div>
+          <div class="lang-level">Expert</div>
+          <div class="lang-bar"><div class="lang-bar-fill" style="width:100%;"></div></div>
+        </div>
+        <div class="lang-kpi de">
+          <div class="lang-flag">🇩🇪</div>
+          <div class="lang-name">Deutsch</div>
+          <div class="lang-num mono">36<span>mo</span></div>
+          <div class="lang-level">Professional Working Proficiency</div>
+          <div class="lang-bar"><div class="lang-bar-fill" style="width:90%;"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="panel full">
+      <div class="panel-header"><h3>Other Skills in Practice</h3><div class="sub">Skills applied across internships, job simulations &amp; the British Airways / Deloitte data-science work — including Machine Learning projects</div></div>
+      <div class="chart-wrap" style="height:300px;"><canvas id="otherSkillsChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <div class="panel-header"><h3>Job Simulation Coverage</h3><div class="sub">Skills applied per corporate simulation program</div></div>
+      <div class="chart-wrap" style="height:300px;"><canvas id="simChart"></canvas></div>
+    </div>
+    <div class="panel">
+      <div class="panel-header"><h3>Power BI Project Portfolio</h3><div class="sub">12 projects across three formats</div></div>
+      <div class="chip-groups" id="chipGroups"></div>
+    </div>
+  </div>
+
+  <footer>Generated from resume data · Rasika · 2026</footer>
+
+<script>
+// From the "Certification" sheet, DataCamp entries only
+const certification = [
+  {name:"Associate Data Engineer", date:"Jun 2025"},
+  {name:"SQL Fundamentals", date:"Jun 2025"},
+  {name:"Data Analyst in Power BI", date:"Mar 2025"},
+  {name:"Associate Data Engineer in Snowflake", date:"Jul 2015"},
+];
+// From the separate "Certified" sheet
+const certified = [
+  {name:"Associate Data Engineer", date:"Jun 2026"},
+  {name:"Data Literacy Certified", date:"Apr 2026"},
+];
+const renderCerts = (list, elId, label) => {
+  document.getElementById(elId).innerHTML = list.map(c => `
+    <div class="cert-card">
+      <span class="badge">${label}</span>
+      <h4>${c.name}</h4>
+      <div class="date mono">${c.date}</div>
+    </div>`).join('');
+};
+renderCerts(certification, 'certRow', 'DATACAMP');
+renderCerts(certified, 'certifiedRow', 'DATACAMP');
+
+const chipData = [
+  {group:"Hands-on", cls:"handson", items:["Flight Analysis","Pizza Analysis","Netflix","Super Sales Analysis","Amazon Analysis"]},
+  {group:"Case Study", cls:"case", items:["HR Analytics Dashboard","Job Market Analysis","Customer Churn","E-commerce Sales"]},
+  {group:"Job Simulation", cls:"sim", items:["PwC","Accenture","Tata"]},
+];
+document.getElementById('chipGroups').innerHTML = chipData.map(g => `
+  <div>
+    <div class="chip-group-title">${g.group} <span class="n">(${g.items.length})</span></div>
+    <div class="chips">${g.items.map(i => `<span class="chip ${g.cls}">${i}</span>`).join('')}</div>
+  </div>`).join('');
+
+Chart.defaults.color = '#8592AE';
+Chart.defaults.font.family = "Inter";
+Chart.defaults.borderColor = '#1F2C46';
+
+const levelColor = {Beginner:'#FF6B5B', Intermediate:'#33D6C0', Expert:'#F2B705'};
+
+const skillRows = [
+  {name:"Teaching", months:48, level:"Expert"},
+  {name:"Python", months:12, level:"Intermediate"},
+  {name:"Data Visualization", months:12, level:"Intermediate"},
+  {name:"Data Analysis", months:12, level:"Intermediate"},
+  {name:"SQL", months:9, level:"Intermediate"},
+  {name:"Machine Learning", months:6, level:"Intermediate"},
+  {name:"Power BI Desktop", months:6, level:"Intermediate"},
+  {name:"Project Management", months:5, level:"Beginner"},
+  {name:"Job Simulations", months:3, level:"Intermediate"},
+  {name:"Business Knowledge", months:3, level:"Beginner"},
+  {name:"Excel", months:2, level:"Intermediate"},
+  {name:"Power BI Internship", months:2, level:"Intermediate"},
+  {name:"Tableau Dashboard", months:2, level:"Beginner"},
+].sort((a,b)=>b.months-a.months);
+
+new Chart(document.getElementById('expChart'), {
+  type:'bar',
+  data:{
+    labels: skillRows.map(s=>s.name),
+    datasets:[{
+      data: skillRows.map(s=>s.months),
+      backgroundColor: skillRows.map(s=>levelColor[s.level]),
+      borderRadius:5,
+      barThickness:14,
+    }]
+  },
+  options:{
+    indexAxis:'y',
+    responsive:true, maintainAspectRatio:false,
+    plugins:{
+      legend:{display:false},
+      tooltip:{callbacks:{label:c=>`${c.raw} months · ${skillRows[c.dataIndex].level}`}}
+    },
+    scales:{
+      x:{grid:{color:'#1F2C46'}, title:{display:true,text:'Months'}},
+      y:{grid:{display:false}}
+    }
+  }
+});
+
+const otherSkills = [
+  {name:"Data Clean-up", count:5, ml:false},
+  {name:"Data Analysis", count:4, ml:false},
+  {name:"Data Visualization", count:2, ml:false},
+  {name:"Python", count:2, ml:false},
+  {name:"DAX / Measures", count:2, ml:false},
+  {name:"Machine Learning", count:1, ml:true},
+  {name:"Web Scraping", count:1, ml:false},
+  {name:"Data Modeling", count:1, ml:false},
+  {name:"Database Design", count:1, ml:false},
+  {name:"Spreadsheet / Excel", count:1, ml:false},
+].sort((a,b)=>b.count-a.count);
+
+new Chart(document.getElementById('otherSkillsChart'), {
+  type:'bar',
+  data:{
+    labels: otherSkills.map(s=>s.name),
+    datasets:[{
+      data: otherSkills.map(s=>s.count),
+      backgroundColor: otherSkills.map(s=> s.ml ? '#9A8CFF' : '#33D6C0'),
+      borderRadius:6,
+      maxBarThickness:38,
+    }]
+  },
+  options:{
+    responsive:true, maintainAspectRatio:false,
+    plugins:{
+      legend:{display:false},
+      tooltip:{callbacks:{label:c=> c.raw + (otherSkills[c.dataIndex].ml ? ' project (British Airways Data Science simulation)' : ' projects/simulations')}}
+    },
+    scales:{
+      x:{grid:{display:false}, ticks:{autoSkip:false, maxRotation:20, minRotation:0}},
+      y:{grid:{color:'#1F2C46'}, ticks:{stepSize:1}, title:{display:true,text:'Times applied'}}
+    }
+  }
+});
+
+const sims = [
+  {name:"British Airways", count:6, cat:"Data Science"},
+  {name:"Deloitte Analytics", count:5, cat:"Data Analytics"},
+  {name:"Accenture", count:5, cat:"Data Visualization"},
+  {name:"PwC", count:4, cat:"Data Visualization"},
+  {name:"Tata", count:3, cat:"Data Visualization"},
+  {name:"Commonwealth", count:3, cat:"Data Science"},
+];
+const catCol = {"Data Visualization":"#33D6C0","Data Science":"#9A8CFF","Data Analytics":"#F2B705"};
+new Chart(document.getElementById('simChart'), {
+  type:'bar',
+  data:{
+    labels: sims.map(s=>s.name),
+    datasets:[{
+      data: sims.map(s=>s.count),
+      backgroundColor: sims.map(s=>catCol[s.cat]),
+      borderRadius:6,
+      maxBarThickness:34,
+    }]
+  },
+  options:{
+    responsive:true, maintainAspectRatio:false,
+    plugins:{
+      legend:{display:false},
+      tooltip:{callbacks:{label:c=>`${c.raw} skills applied · ${sims[c.dataIndex].cat}`}}
+    },
+    scales:{
+      x:{grid:{display:false}},
+      y:{grid:{color:'#1F2C46'}, title:{display:true,text:'Skills applied'}, ticks:{stepSize:1}}
+    }
+  }
+});
+</script>
+</body>
+</html>
