@@ -54,7 +54,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/HTML-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="HTML Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
@@ -68,3 +68,10 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+#### Machine Learning 
+<p>
+  <img src="https://img.shields.io/badge/Machine%2FLearning%20Experienced-FF6B6B?style=flat" alt="Machine Learning Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20NLP-Intermediate-45B7D1?style=flat" alt="NLP Skill Badge">
+</p>  
