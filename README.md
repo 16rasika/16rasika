@@ -20,9 +20,9 @@ I enjoy transforming complex, messy datasets into clear stories and actionable i
 
 
 # 🏆 Achievements  
-Certified Data Literacy ![Alt text](Data-Literacy.JPG)
+ ![Alt text](Data-Literacy.JPG)
 
-Certified Data Engineer ![Alt text](DE-Associate.JPG)
+ ![Alt text](DE-Associate.JPG)
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
