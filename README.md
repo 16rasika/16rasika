@@ -26,16 +26,16 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Doing 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Preparing Data Analyst Certification from Datacamp:** [Completed different tracks to improve my proficiency in data field]  
+- **Power-BI Project:** [Creating an interactive dashboard in Power BI.]
+- **Developing skills in AI & Data field through different online platforms :** [e.g.Forage, CadetX, Datacamp]
 
-## 🌱 Currently Learning 
+<!--## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ## 🛠️ Technical Skillset
 
