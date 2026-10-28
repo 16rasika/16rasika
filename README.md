@@ -1,4 +1,4 @@
-## Hi there, I'm [Rasika Kulkarni] 👋
+## Hi there, I'm [Rasika] 👋
 
 <div align="center">
 <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
@@ -21,6 +21,7 @@ I enjoy transforming complex, messy datasets into clear stories and actionable i
 
 # 🏆 Achievements  
 Certified Data Literacy ![Alt text](Data-Literacy.JPG)
+
 Certified Data Engineer ![Alt text](DE-Associate.JPG)
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
