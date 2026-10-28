@@ -25,7 +25,7 @@ I enjoy transforming complex, messy datasets into clear stories and actionable i
  ![Alt text](DE-Associate.JPG)
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](datascienceportfol.io )
+### [🏆 Check Out My Full Portfolio Website](datascienceportfol.io/16rasika)
       
 ## 🔭 What I'm Currently Doing 
 
